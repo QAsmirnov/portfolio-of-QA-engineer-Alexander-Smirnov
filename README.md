@@ -1,7 +1,3 @@
-[Пример моих тест кейсов](https://docs.google.com/spreadsheets/d/1ZzI8GdXThqRtlNbDOijR2E1mvUuWXKGQmupOaTM_rjQ/edit#gid=991808076)
+[Примеры написания тестовой документации](https://docs.google.com/spreadsheets/d/1eji2AZ6o6Fp2YM58N4NGjxxYAt9iuJSa9sNYFVufR7k/edit#gid=0)
 
 
----
-
-
-[Пример моего тестового задания](https://docs.google.com/spreadsheets/d/1snAlA3ak0NDTvUZu27HgXxPFilOrIBWc4d_qLo_2_uA/edit#gid=0)
